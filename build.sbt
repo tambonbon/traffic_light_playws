@@ -18,7 +18,6 @@ libraryDependencies ++= Seq(
   ws,
   "com.typesafe" % "config" % "1.4.0",
   "org.webjars" % "jquery" % "2.1.3",
-  "org.typelevel" %% "cats-core" % "2.1.1",
   "org.mockito" %% "mockito-scala" % "1.16.0",
   ehcache,
   evolutions
